@@ -1,0 +1,5 @@
+﻿  BasicSyntax.cpp
+  CarSedan.cpp
+  Generating Code...
+C:\Users\addinedu\OneDrive\바탕 화면\C++ 교육\BasicSyntax\BasicSyntax\BasicSyntax.h(81): warning C4715: 'Phone::Get': not all control paths return a value
+  BasicSyntax.vcxproj -> C:\Users\addinedu\OneDrive\바탕 화면\C++ 교육\BasicSyntax\x64\Debug\BasicSyntax.exe
